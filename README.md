@@ -1,4 +1,84 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Uma Nagendra Kumar</h1>
+<h3 align="center">🚀 Final Year B.Tech CSE | Full Stack Developer | MERN | Java | Open Source Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Lifelong+Learner+💡;Love+building+real-world+projects;DSA+&+System+Design+Focused" />
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/KunK" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+  </a>
+  <a href="mailto:kambalaumanagendrakumar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-DM%20Me-red?logo=gmail&style=for-the-badge">
+  </a>
+  <a href="https://github.com/umanagendrakumar">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge">
+  </a>
+  <a href="https://umanagendrakumar.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge">
+  </a>
+</p>
+
+---
+
+## 🧠 About Me
+- 🎓 Final year CSE student at Acharya Nagarjuna University (CGPA: 8.37)
+- 🔭 Currently working on **DevCharge** – A real-time MERN-based matchmaking platform for developers
+- 💡 Passionate about **full-stack development**, **clean code**, and **problem-solving**
+- 🤝 Actively looking for internship/full-time opportunities in software development
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,react,mongodb,mysql,html,css,tailwind,git,github,postman,vscode" />
+</p>
+
+---
+
+## 💼 Projects
+
+### 🚀 [DevCharge](https://devcharge.netlify.app) &nbsp; ![Live](https://img.shields.io/badge/Live-blue)  
+**Real-time matchmaking platform for developers using MERN, WebSockets, and microservices**
+
+- 🔗 [GitHub Repository](https://github.com/umanagendrakumar/DevCharge-FE)
+- Developed 13+ secure REST APIs with JWT auth, built real-time messaging using Socket.IO  
+- Designed scalable microservice architecture; frontend with React + DaisyUI + Tailwind CSS
+
+---
+
+### 📊 [Grade Point Calculator](https://uma03.netlify.app) &nbsp; ![Live](https://img.shields.io/badge/Live-green)  
+**Automated GPA-to-percentage converter that helped 60+ students**
+
+- 🔗 [GitHub Repository](https://github.com/umanagendrakumar/Semester-Grade-to-GPA)
+- Reduced calculation time by 80%, improving usability and accuracy
+
+---
+
+## 📈 GitHub Stats & Contributions
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umanagendrakumar&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=umanagendrakumar&theme=radical&hide_border=false" />
+  <br/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umanagendrakumar&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+## 📬 Get in Touch
+
+- 📧 Email: kambalaumanagendrakumar@gmail.com  
+- 🔗 LinkedIn: [linkedin.com/in/KunK](https://linkedin.com/in/KunK)  
+- 🌐 Portfolio: [umanagendrakumar.netlify.app](https://umanagendrakumar.netlify.app)  
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
 
 <!--
 **umanagendrakumar/umanagendrakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
