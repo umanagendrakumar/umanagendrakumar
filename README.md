@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Uma Nagendra Kumar</h1>
-<h3 align="center">🚀 Final Year B.Tech CSE | Full Stack Developer | MERN | Java | Open Source Enthusiast</h3>
+<h3 align="center">🚀 Recent Graduate CSE'25 | Full Stack Developer | MERN | Java | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Lifelong+Learner+💡;Love+building+real-world+projects;DSA+&+System+Design+Focused" />
@@ -23,7 +23,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Final year CSE student at Acharya Nagarjuna University (CGPA: 8.37)
+- 🎓 Recent CSE Graduate from Acharya Nagarjuna University (CGPA: 8.37)
 - 🔭 Currently working on **DevCharge** – A real-time MERN-based matchmaking platform for developers
 - 💡 Passionate about **full-stack development**, **clean code**, and **problem-solving**
 - 🤝 Actively looking for internship/full-time opportunities in software development
