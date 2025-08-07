@@ -43,7 +43,7 @@
 ### 🚀 [DevCharge](https://devcharge.netlify.app) &nbsp; ![Live](https://img.shields.io/badge/Live-blue)  
 **Real-time matchmaking platform for developers using MERN, WebSockets, and microservices**
 
-- 🔗 [GitHub Repository](https://github.com/umanagendrakumar/DevCharge-FE)
+- 🔗 [GitHub Repository](https://github.com/umanagendrakumar/DevCharge-FrontEnd)
 - Developed 13+ secure REST APIs with JWT auth, built real-time messaging using Socket.IO  
 - Designed scalable microservice architecture; frontend with React + DaisyUI + Tailwind CSS
 
