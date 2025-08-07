@@ -40,7 +40,7 @@
 
 ## 💼 Projects
 
-### 🚀 [DevCharge](https://devcharge.netlify.app) &nbsp; ![Live](https://img.shields.io/badge/Live-blue)  
+### 🚀 [DevCharge](https://devcharge.netlify.app) &nbsp; ![Live](https://devcharge.netlify.app/)  
 **Real-time matchmaking platform for developers using MERN, WebSockets, and microservices**
 
 - 🔗 [GitHub Repository](https://github.com/umanagendrakumar/DevCharge-FrontEnd)
@@ -49,7 +49,7 @@
 
 ---
 
-### 📊 [Grade Point Calculator](https://uma03.netlify.app) &nbsp; ![Live](https://img.shields.io/badge/Live-green)  
+### 📊 [Grade Point Calculator](https://uma03.netlify.app) &nbsp; ![Live](https://uma03.netlify.app/)  
 **Automated GPA-to-percentage converter that helped 60+ students**
 
 - 🔗 [GitHub Repository](https://github.com/umanagendrakumar/Semester-Grade-to-GPA)
