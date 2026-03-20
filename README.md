@@ -1,5 +1,5 @@
-<h1 align="center">Hey there! 👋 I'm Uma Nagendra Kumar</h1>
-<h3 align="center">🚀 Recent Graduate CSE'25 | Full Stack Developer | MERN | Java | Open Source Enthusiast</h3>
+<h1 align="center">Hey there! I'm Uma Nagendra Kumar</h1>
+<h3 align="center">🚀 Recent Graduate CSE'25 | Full Stack Developer | Spring Boot | Java | Open Source Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Lifelong+Learner+💡;Love+building+real-world+projects;DSA+&+System+Design+Focused" />
