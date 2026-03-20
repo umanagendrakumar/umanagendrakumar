@@ -71,11 +71,10 @@ Experienced in building scalable applications with clean architecture and secure
 
 ### Grade Point Calculator
 
-* Used by 60+ students
+* Used by 100+ students
 * Reduced manual calculation effort by ~80%
 
 🔗 https://uma03.netlify.app/
-🔗 https://github.com/umanagendrakumar/Semester-Grade-to-GPA
 
 ---
 
