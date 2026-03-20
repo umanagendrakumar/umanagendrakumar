@@ -1,4 +1,4 @@
-<h1 align="center">Uma Nagendra Kumar</h1>
+<h1 align="center">Heyy there, I am Uma Nagendra Kumar</h1>
 <p align="center">
   <b>Software Developer</b> • Java • Spring Boot • Backend Focused
 </p>
@@ -33,8 +33,10 @@ Experienced in building scalable applications with clean architecture and secure
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,postgres,mongodb,git,github,postman" />
 </p>
 
-**Backend:** Spring Boot, Hibernate, Spring Security 
+**Backend:** Spring Boot, Hibernate, Spring Security
+
 **Frontend:** React, Redux Toolkit
+
 **Database:** PostgreSQL, MongoDB
 
 ---
