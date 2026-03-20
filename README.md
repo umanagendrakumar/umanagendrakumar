@@ -23,9 +23,7 @@
 ---
 
 ## 🧠 About Me
-- 🎓 Recent CSE Graduate from Acharya Nagarjuna University (CGPA: 8.37)
-- 🔭 Currently working on **DevCharge** – A real-time MERN-based matchmaking platform for developers
-- 💡 Passionate about **full-stack development**, **clean code**, and **problem-solving**
+- 🎓 Recent CSE Graduate from Acharya Nagarjuna University (CGPA: 8.29)
 - 🤝 Actively looking for internship/full-time opportunities in software development
 
 ---
