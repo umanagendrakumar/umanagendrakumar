@@ -1,6 +1,6 @@
 <h1 align="center">Uma Nagendra Kumar</h1>
 <p align="center">
-  <b>Software Developer</b> • Java • Spring Boot • Full Stack
+  <b>Software Developer</b> • Java • Spring Boot • Backend Focused
 </p>
 
 <p align="center">
@@ -22,11 +22,8 @@
 
 ## About
 
-* CSE Graduate (2025) • CGPA: 8.29
-* Backend-focused developer skilled in **Java, Spring Boot, REST APIs**
-* Experience building **scalable full-stack applications**
-* Currently learning **Microservices & Docker**
-* Open to **SDE / Backend / Full Stack roles**
+Backend-focused developer with strong fundamentals in **Java, Spring Boot, and REST APIs**.
+Experienced in building scalable applications with clean architecture and secure API design.
 
 ---
 
@@ -36,6 +33,10 @@
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,postgres,mongodb,git,github,postman" />
 </p>
 
+**Backend:** Spring Boot, Hibernate, Spring Security
+**Frontend:** React, Redux Toolkit
+**Database:** PostgreSQL, MongoDB
+
 ---
 
 ## Projects
@@ -44,10 +45,13 @@
 
 *Spring Boot • PostgreSQL • React*
 
-* Designed layered backend architecture (Controller → Service → Repository)
+* Designed layered architecture (Controller → Service → Repository)
 * Implemented **Spring Security** with session-based authentication
 * Modeled relational data using **JPA + DTO pattern**
-* Built dynamic filtering and optimized CRUD operations
+* Built dynamic filtering for job tracking with optimized queries
+
+🔗 Live: https://orbit-live-link.com
+🔗 Repo: https://github.com/your-repo
 
 ---
 
@@ -55,10 +59,10 @@
 
 *Node.js • MongoDB • React*
 
-* Built 13+ structured REST APIs with validation & error handling
-* Implemented **JWT authentication + bcrypt hashing**
-* Real-time chat using **WebSockets (Socket.IO)**
-* Pagination with MongoDB (skip & limit)
+* Developed 13+ REST APIs with structured validation & error handling
+* Implemented **JWT authentication** with secure password hashing (bcrypt)
+* Built real-time chat using **WebSockets (Socket.IO)**
+* Optimized data fetching using pagination (skip & limit)
 
 🔗 https://devcharge.netlify.app/
 🔗 https://github.com/umanagendrakumar/DevCharge-FrontEnd
