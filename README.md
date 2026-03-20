@@ -1,94 +1,96 @@
-<h1 align="center">Hey there! I'm Uma Nagendra Kumar</h1>
-<h3 align="center">🚀 Recent Graduate CSE'25 | Full Stack Developer | Spring Boot | Java | Open Source Enthusiast</h3>
-
+<h1 align="center">Uma Nagendra Kumar</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF99&center=true&lines=Aspiring+Software+Engineer;MERN+Stack+Developer;Lifelong+Learner+💡;Love+building+real-world+projects;DSA+&+System+Design+Focused" />
+  <b>Software Developer</b> • Java • Spring Boot • Full Stack
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/KunK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge">
+  <a href="https://linkedin.com/in/KunK">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square">
   </a>
   <a href="mailto:kambalaumanagendrakumar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-DM%20Me-red?logo=gmail&style=for-the-badge">
+    <img src="https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white&style=flat-square">
   </a>
-  <a href="https://github.com/umanagendrakumar">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&style=for-the-badge">
+  <a href="https://umanagendrakumar.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square">
   </a>
-  <a href="https://umanagendrakumar.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge">
+  <a href="https://leetcode.com/u/idkunk/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square">
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-- 🎓 Recent CSE Graduate from Acharya Nagarjuna University (CGPA: 8.29)
-- 🤝 Actively looking for internship/full-time opportunities in software development
+## About
+
+* CSE Graduate (2025) • CGPA: 8.29
+* Backend-focused developer skilled in **Java, Spring Boot, REST APIs**
+* Experience building **scalable full-stack applications**
+* Currently learning **Microservices & Docker**
+* Open to **SDE / Backend / Full Stack roles**
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,nodejs,express,react,mongodb,mysql,html,css,tailwind,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,postgres,mongodb,git,github,postman" />
 </p>
 
 ---
 
-## 💼 Projects
+## Projects
 
-### 🚀 DevCharge &nbsp; [Live](https://devcharge.netlify.app/)  
-**Real-time matchmaking platform for developers using MERN, WebSockets, and microservices**
+### ORBIT — Job Application Tracking System
 
-- 🔗 [GitHub Repository](https://github.com/umanagendrakumar/DevCharge-FrontEnd)
-- Developed 13+ secure REST APIs with JWT auth, built real-time messaging using Socket.IO  
-- Designed scalable microservice architecture; frontend with React + DaisyUI + Tailwind CSS
+*Spring Boot • PostgreSQL • React*
 
----
-
-### 📊 Grade Point Calculator &nbsp; [Live](https://uma03.netlify.app/)  
-**Automated GPA-to-percentage converter that helped 60+ students**
-
-- 🔗 [GitHub Repository](https://github.com/umanagendrakumar/Semester-Grade-to-GPA)
-- Reduced calculation time by 80%, improving usability and accuracy
+* Designed layered backend architecture (Controller → Service → Repository)
+* Implemented **Spring Security** with session-based authentication
+* Modeled relational data using **JPA + DTO pattern**
+* Built dynamic filtering and optimized CRUD operations
 
 ---
 
-## 📈 GitHub Stats & Contributions
+### DevCharge — Developer Matchmaking Platform
+
+*Node.js • MongoDB • React*
+
+* Built 13+ structured REST APIs with validation & error handling
+* Implemented **JWT authentication + bcrypt hashing**
+* Real-time chat using **WebSockets (Socket.IO)**
+* Pagination with MongoDB (skip & limit)
+
+🔗 https://devcharge.netlify.app/
+🔗 https://github.com/umanagendrakumar/DevCharge-FrontEnd
+
+---
+
+### Grade Point Calculator
+
+* Used by 60+ students
+* Reduced manual calculation effort by ~80%
+
+🔗 https://uma03.netlify.app/
+🔗 https://github.com/umanagendrakumar/Semester-Grade-to-GPA
+
+---
+
+## Achievements
+
+* Solved **260+ LeetCode problems**
+* Contest Rating: **1484 (Top ~50%)**
+
+---
+
+## GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umanagendrakumar&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=umanagendrakumar&theme=radical&hide_border=false" />
-  <br/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umanagendrakumar&theme=react-dark&hide_border=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=umanagendrakumar&show_icons=true&hide_border=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=umanagendrakumar&hide_border=true" />
 </p>
-
----
-
-## 📬 Get in Touch
-
-- 📧 Email: kambalaumanagendrakumar@gmail.com  
-- 🔗 LinkedIn: [linkedin.com/in/KunK](https://linkedin.com/in/KunK)  
-- 🌐 Portfolio: [umanagendrakumar.netlify.app](https://umanagendrakumar.netlify.app)  
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=90&section=footer"/>
 </p>
-
-<!--
-**umanagendrakumar/umanagendrakumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
