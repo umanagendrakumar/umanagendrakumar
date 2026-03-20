@@ -33,7 +33,7 @@ Experienced in building scalable applications with clean architecture and secure
   <img src="https://skillicons.dev/icons?i=java,spring,js,nodejs,react,postgres,mongodb,git,github,postman" />
 </p>
 
-**Backend:** Spring Boot, Hibernate, Spring Security
+**Backend:** Spring Boot, Hibernate, Spring Security 
 **Frontend:** React, Redux Toolkit
 **Database:** PostgreSQL, MongoDB
 
@@ -50,8 +50,7 @@ Experienced in building scalable applications with clean architecture and secure
 * Modeled relational data using **JPA + DTO pattern**
 * Built dynamic filtering for job tracking with optimized queries
 
-🔗 Live: https://orbit-live-link.com
-🔗 Repo: https://github.com/your-repo
+🔗 Live: https://project-orbit-alpha.vercel.app/
 
 ---
 
@@ -65,7 +64,6 @@ Experienced in building scalable applications with clean architecture and secure
 * Optimized data fetching using pagination (skip & limit)
 
 🔗 https://devcharge.netlify.app/
-🔗 https://github.com/umanagendrakumar/DevCharge-FrontEnd
 
 ---
 
@@ -81,8 +79,8 @@ Experienced in building scalable applications with clean architecture and secure
 
 ## Achievements
 
-* Solved **260+ LeetCode problems**
-* Contest Rating: **1484 (Top ~50%)**
+* Solved **270+ LeetCode problems**
+* Contest Rating: **1503 (Top ~43%)**
 
 ---
 
